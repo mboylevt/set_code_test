@@ -1,0 +1,8 @@
+[package]
+
+name = "set_code_test"
+version = "0.0.1"
+authors = ["matt <matthew.p.boyle@gmail.com>"]
+
+[[bin]]
+name="set_code_test"
